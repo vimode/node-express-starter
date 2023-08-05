@@ -12,7 +12,6 @@ app.use(express.json());
 
 // enable cors
 app.use(cors());
-// app.options("*", cors());
 
 // request logger middleware
 app.use(morgan("tiny"));
