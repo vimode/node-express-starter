@@ -22,3 +22,15 @@ src\
  |--app.js          # Express app
  |--index.js        # App entry point
 ```
+
+## About
+
+The server runs a simple Express API server
+
+`/` returns `status: ok` 
+
+`/hello` is returns `message: Hello World!`
+
+Unknown endpoints are handled in a middleware file.
+
+The `hello` route is defined  in the `helloRoute`   
