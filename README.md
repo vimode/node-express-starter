@@ -1,6 +1,6 @@
 # ExpressJS Starter Template
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/uhmiOZ)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/Vp8hse?referralCode=vimo)
 
 This is boilerplate/starter project for quickly building RESTful APIs using Node.js and [Express](https://expressjs.com/), written in JavaScript.
 It will help you get started with a simple to follow format with some examples for routes, logging and middleware.
